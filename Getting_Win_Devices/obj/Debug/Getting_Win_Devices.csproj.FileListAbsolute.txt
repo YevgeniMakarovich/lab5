@@ -1,5 +1,0 @@
-C:\Users\MKRVCH\Desktop\5laba_po_iipy-master\Getting_Win_Devices\obj\Debug\Getting_Win_Devices.csprojResolveAssemblyReference.cache
-C:\Users\MKRVCH\Desktop\5laba_po_iipy-master\Getting_Win_Devices\obj\Debug\Getting_Win_Devices.Form1.resources
-C:\Users\MKRVCH\Desktop\5laba_po_iipy-master\Getting_Win_Devices\obj\Debug\Getting_Win_Devices.Properties.Resources.resources
-C:\Users\MKRVCH\Desktop\5laba_po_iipy-master\Getting_Win_Devices\obj\Debug\Getting_Win_Devices.csproj.GenerateResource.Cache
-C:\Users\MKRVCH\Desktop\5laba_po_iipy-master\Getting_Win_Devices\bin\Debug\Getting_Win_Devices.exe.config
